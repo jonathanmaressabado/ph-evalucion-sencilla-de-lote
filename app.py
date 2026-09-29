@@ -1,5 +1,3 @@
-st.sidebar.title(evaluacion sencilla de lote)
-st.sidebar.write(jonathan marea sabado, 371665, grupo 3L, facultad de ciencias quimicas)
 import streamlit as st
 
 st.title("Evaluación de un lote")
